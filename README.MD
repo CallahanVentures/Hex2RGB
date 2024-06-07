@@ -15,7 +15,7 @@ This project is a simple color converter built with Next.js. It allows users to 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/CallahanVentures/Portfolio/tree/main/color-converter.git
+   git clone https://github.com/CallahanVentures/Hex2RGB.git
    cd color-converter
 
    ```
